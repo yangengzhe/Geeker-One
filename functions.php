@@ -642,7 +642,7 @@
 
   $wpdaxue_update_checker = new ThemeUpdateChecker('GEEKER-ONE', //主题名字
 
-  'http://www.i3geek.com/geeker-one.json');
+  'http://down.i3geek.com/geeker-one.html');
 
   add_filter('the_content', 'substr_content');
 
